@@ -1,0 +1,23 @@
+{
+  "name": "undecorated-di-test-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "cd dist && node --experimental-modules --experimental-specifier-resolution=node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0",
+    "typescript": "^5.1.6",
+    "undecorated-di": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.6"
+  }
+}

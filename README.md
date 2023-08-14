@@ -7,7 +7,7 @@ This is a sample application which employs undecorated-di to power dependency in
  - Polymorphic behavior made possible with undecorated-di
  - Suggested file structure / organization of classes, interfaces and interface keys when using the project
 
-To experiment with this simple example, clone the repo. Run:
+To experiment with this simple example, clone the repo and CD into the application folder. Run:
 
     npm install
 

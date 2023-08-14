@@ -1,6 +1,6 @@
 # undecorated-di Sample App
 
-This is a sample application built which employs undecorated-di to power dependency injection and inversion of control. This application illustrates:
+This is a sample application which employs undecorated-di to power dependency injection and inversion of control. This application illustrates:
 
  - Basic usage of the undecorate-di package
  - The type-safety provided by undecorated-di

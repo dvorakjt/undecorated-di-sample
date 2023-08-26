@@ -1,6 +1,6 @@
 {
   "name": "undecorated-di-test-install",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -15,7 +15,7 @@
   "dependencies": {
     "figlet": "^1.6.0",
     "typescript": "^5.1.6",
-    "undecorated-di": "^1.0.0"
+    "undecorated-di": "^1.2.0"
   },
   "devDependencies": {
     "@types/figlet": "^1.5.6"
